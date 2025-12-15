@@ -1,0 +1,5 @@
+{
+  "name": "Digital Culinary Expert",
+  "description": "An AI-powered recipe generator that acts as a digital chef. Enter ingredients and preferences to get structured recipes, cooking advice, and visualized dishes.",
+  "requestFramePermissions": []
+}
